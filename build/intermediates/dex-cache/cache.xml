@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.0_e25f08e5d11f638c01b5d51fc20807c39074a102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0_8915e09eb10059557393458ce31bf2a67e1c3d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0_70bf6851a72278f80d81063a805faad91b3e975b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="C:\Users\zhanxiaolin-n22\Desktop\ASMyFtpClient\app\build\intermediates\pre-dexed\debug\commons-net-3.3_368b0c94cd2df492504e9514468fc2e4ab0b6e3b.jar" />
+    </item>
+
+</items>
